@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Safar</h1>
 <h3 align="center">A passionate Machine Learning and Python from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/uYs7v65NLeDpwESU8">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/RohanIncantato/RohanIncantato/assets/106857699/9cca3dbd-9e4c-4089-a4a7-56dcc2b1ca6c)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanincantato&label=Profile%20views&color=0e75b6&style=flat" alt="rohanincantato" /> </p>
 
