@@ -10,8 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohanIncantato](https://github.com/RohanIncantato)
 - For Project Mentorship -[https://topmate.io/rohan_safar]
-- My product website ,please have a look and upvote: [https://www.producthunt.com/posts/uplife]
-- Website link-[https://uplifenow.wordpress.com/?ref=producthunt]
+- My product website link-[https://uplifenow.wordpress.com/?ref=producthunt]
 
 
 
